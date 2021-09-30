@@ -30,7 +30,7 @@ const questions = [
     type: "checkbox",
     message: "What type of license is needed for this repo?",
     name: "license",
-    choices: ["Github", "MIT", "zLib License"],
+    choices: ["ISC", "MIT", "zLib License"],
   },
   {
     type: "input",

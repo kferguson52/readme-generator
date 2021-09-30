@@ -1,7 +1,7 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-  # FF Project
+
+  # ly;e Project
   ## Description
-     test
+     
   ## Installation
      
   ## Usage
@@ -11,6 +11,6 @@
   ## Tests
     
   ## Questions
-    For any questions please contact me at https://github.com/kferguson52
+    For any questions please contact me at https://github.com/
   ## License
     This package is covered under the 
