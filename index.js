@@ -31,14 +31,43 @@ const questions = [
     message: "What type of license is needed for this repo?",
     name: "license",
     choices: ["ISC", "MIT", "zLib License"],
+  },
+  {
+    type: "input",
+    name: "installation",
+    message:
+      "Please provide a set of installation instructions that can be added to the READ.ME file",
+  },
+  {
+    type: "input",
+    name: "usage",
+    message:
+      "Please provide a set of usage instructions that can be added to the READ.ME file",
+  },
+  {
+    type: "input",
+    name: "contribution",
+    message:
+      "Please provide a set of contribution instructions that can be added to the READ.ME file",
+  },
+  {
+    type: "input",
+    name: "test",
+    message:
+      "Please provide a set of test cases that can be added to the READ.ME file",
   }
   // Ask for the github username, 2) email address, 3) description of project, 4) ask for license needed (choices and reseasch licnense on github and only choose a few), 5) installation command and let the user know that, 6) test command and let the user know that 7) what the user needs to be informed on how to use repo 8) and what user needs to know to contribute towards this same repo
 ];
 
-ui.log.write('This project requires npm inquirer. Installation intstructions will be provide in the READ.ME to install the package.');
-ui.log.write('To test the application, simply go to your terminal at the folder and run "node index');
-ui.log.write('To use this repo, simply code to code and copy the HTTPS URL. In your local folder, run git clone [insert URL here]. This will be outlined further in the READ.ME ');
-
+ui.log.write(
+  "This project requires npm inquirer. Installation intstructions will be provide in the READ.ME to install the package."
+);
+ui.log.write(
+  'To test the application, simply go to your terminal at the folder and run "node index'
+);
+ui.log.write(
+  "To use this repo, simply code to code and copy the HTTPS URL. In your local folder, run git clone [insert URL here]. This will be outlined further in the READ.ME "
+);
 
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) {

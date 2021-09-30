@@ -1,10 +1,16 @@
 
-  # FF CHARS 2 Project
+  # FF Character Bio Project
   ## Description
+     Historical trending
   ## Installation
+     Clone repo first
   ## Usage
+     run the terminal 
   ## Contributing
+     fork off
   ## Tests
+    Test that this works
   ## Questions
-     https://github.com/kferguson52
+    For any questions please contact me at https://github.com/kferguson52
   ## License
+    This package is covered under the 

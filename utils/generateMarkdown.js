@@ -19,13 +19,19 @@ function generateMarkdown(data) {
   return `
   # ${data.title + " Project"}
   ## ${"Description"}
+     ${data.description}
   ## ${"Installation"}
+     ${data.installation}
   ## ${"Usage"}
+     ${data.usage}
   ## ${"Contributing"}
+     ${data.contribution}
   ## ${"Tests"}
+    ${data.test}
   ## ${"Questions"}
-     ${"https://github.com/" + data.username}
+    ${"For any questions please contact me at https://github.com/" + data.username}
   ## ${"License"}
+    ${"This package is covered under the " + data.license}
 `;
 }
 
