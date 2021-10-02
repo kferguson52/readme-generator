@@ -1,16 +1,19 @@
 
-  # Example Project
+    
+    [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+    
+  # README Generator Project
   ## Description
-     example description
+     This project is an application built with node.js. When you run the application in your terminal, you will be prompted with a series of questions. As a result, a read me is produced.
   ## Installation
-     example install intructions
+     1) Clone this repo locally. 2) Run "Node Index" at the folder directory. 3) Answer all questions. 4) Look for your newly created READ.ME file!
   ## Usage
-     example usage instructinos
+     Use this to create READ.ME for any of your projects. 
   ## Contributing
-     exa,ple contribution intstructions
+     Feel free to fork off this repo and or clone locally.
   ## Tests
-    example test case
+    Given I'm in the terminal at my project directory when I run Node Index THEN I am prompted with a series of questinos and my READ.ME is created
   ## Questions
     For any questions please contact me at https://github.com/kferguson52
   ## License
-    This package is covered under the 
+    This package is covered under the MIT

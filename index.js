@@ -27,7 +27,7 @@ const questions = [
     message: "Please provide a brief project description",
   },
   {
-    type: "checkbox",
+    type: "list",
     message: "What type of license is needed for this repo?",
     name: "license",
     choices: ["ISC", "MIT", "zLib License"],
