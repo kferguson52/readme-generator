@@ -8,6 +8,7 @@
      1) Clone this repo locally. 2) Run "Node Index" at the folder directory. 3) Answer all questions. 4) Look for your newly created READ.ME file!
   ## Usage
      Use this to create READ.ME for any of your projects. 
+     If you are seeing an issue with the license badge, ensure the syntax on line one is correct and the URL is not indented at all within the READ.ME.
   ## Contributing
      Feel free to fork off this repo and or clone locally.
   ## Tests
