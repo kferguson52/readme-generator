@@ -1,17 +1,18 @@
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
     
-  # README Generator Project
+   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+    
+  # FF Character Bio's Project
   ## Description
-     This project is an application built with node.js. When you run the application in your terminal, you will be prompted with a series of questions. As a result, a read me is produced.
+     Historical trending for characters
   ## Installation
-     1) Clone this repo locally. 2) Run "Node Index" at the folder directory. 3) Answer all questions. 4) Look for your newly created READ.ME file!
+     Clone the repo. 
   ## Usage
-     Use this to create READ.ME for any of your projects. 
+     Make sure that this is only for personal use.
   ## Contributing
-     Feel free to fork off this repo and or clone locally.
+     You can fork the repo and clone locally.
   ## Tests
-    Given I'm in the terminal at my project directory when I run Node Index THEN I am prompted with a series of questinos and my READ.ME is created
+    
   ## Questions
     For any questions please contact me at https://github.com/kferguson52
   ## License
