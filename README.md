@@ -8,7 +8,8 @@
   ## Installation
      Clone the repo. 
   ## Usage
-     Make sure that this is only for personal use.
+     1) Use this to create READ.ME for any of your projects. 
+     2) If you are seeing an issue with the license badge, ensure the syntax on line one is correct and the URL is not indented at all within the READ.ME.
   ## Contributing
      You can fork the repo and clone locally.
   ## Tests
